@@ -1,0 +1,5 @@
+Discarded: YELLOW 8
+Discarded: BLUE 8
+Discarded: BLUE 6
+Discarded: BLUE 7
+Discarded: RED 7
